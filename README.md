@@ -1,4 +1,4 @@
-# SpellCorrector
+fi SpellCorrector
 
 COMP 6651: Algorithm Design Techniques
 Fall 2017: Programming Assignment 1
@@ -27,7 +27,7 @@ spelled word found in the sentence, followed by a colon, and then the list of po
 rections, separated by a comma and then a space. The last correction will be followed by
 nothing. Each misspelled word will be on a diferent line. If there are no misspelled words
 in the sentence, the output file should simply contain the number 0.
-To nd the list of spelling corrections, you should implement two algorithms:
+To find the list of spelling corrections, you should implement two algorithms:
 1. A simple linear search for the current word w in the dictionary, checking for each word
 in the dictionary if it is distance <= k from the searched word w.
 2. An algorithm using BK-trees.

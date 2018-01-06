@@ -1,4 +1,4 @@
-fi SpellCorrector
+SpellCorrector
 
 COMP 6651: Algorithm Design Techniques
 Fall 2017: Programming Assignment 1

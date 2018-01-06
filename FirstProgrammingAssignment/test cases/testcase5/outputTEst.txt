@@ -1,0 +1,12 @@
+your : 
+task : aas, 
+is : a, aa, ab, aas, 
+to : a, aa, ab, 
+write : 
+and : a, aa, ab, aaa, aah, aal, aam, aas, aba, aani, aband, 
+test : 
+two : 
+simple : 
+speliig : 
+corretor : 
+algoithms : 
